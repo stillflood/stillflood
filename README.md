@@ -1,50 +1,21 @@
 <p align="center">
-  <img src="banner.png" alt="StillFlood" width="100%"/>
+  <img src="banner.png" alt="StillFlood" width="100%">
 </p>
 
 <p align="center">
-  [English](./README.en.md) | **简体中文**
+  <b><a href="./README.en.md">English</a></b> | 简体中文
 </p>
 
 <div align="center">
-
-<br>
 
 # StillFlood
 
 **Master the AI era.**
 
-技术分享者 —— 记录安全与 AI 时代的工程实践，把复杂的事讲清楚。
+记录安全与 AI 时代的工程实践。
 
-<br><br>
+<br>
 
-## 正在做
-
-- 🔐 **网络安全** —— 工程实践与踩坑记录
-- 🤖 **AI 应用** —— 让技术为现实服务
-- ✍️ **技术写作** —— 分享可复用的经验
-- 🛠 **开源项目** —— 打磨中，欢迎交流
-
-<br><br>
-
-## 内容输出
-
-| 平台 | 链接 |
-|------|------|
-| 博客 | [sflood.com](https://sflood.com) |
-| GitHub | [@stillflood](https://github.com/stillflood) |
-
-<br><br>
-
-<div style="display:inline-block;background:#0F172A;color:#7DD3FC;border-radius:14px;padding:20px 28px;text-align:left;font-family:ui-monospace,'SF Mono',Consolas,monospace;font-size:14px;line-height:1.9">
-$ whoami<br/>
-StillFlood · Master the AI era<br/><br/>
-$ echo $motto<br/>
-Master the AI era.
-</div>
-
-<br><br>
-
-<sub>**Master the AI era.**</sub>
+**博客** [sflood.com](https://sflood.com) · **GitHub** [@stillflood](https://github.com/stillflood)
 
 </div>
