@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  [English](./README.en.md) | **简体中文**
+  **English** | [简体中文](./README.md)
 </p>
 
 <div align="center">
@@ -14,24 +14,24 @@
 
 **Master the AI era.**
 
-技术分享者 —— 记录安全与 AI 时代的工程实践，把复杂的事讲清楚。
+I write real engineering notes on security and the AI era — and explain complex things clearly.
 
 <br><br>
 
-## 正在做
+## What I do
 
-- 🔐 **网络安全** —— 工程实践与踩坑记录
-- 🤖 **AI 应用** —— 让技术为现实服务
-- ✍️ **技术写作** —— 分享可复用的经验
-- 🛠 **开源项目** —— 打磨中，欢迎交流
+- 🔐 **Security** — engineering practice & lessons learned
+- 🤖 **AI in practice** — making tech serve real needs
+- ✍️ **Tech writing** — sharing reusable experience
+- 🛠 **Open source** — in progress, welcome to talk
 
 <br><br>
 
-## 内容输出
+## Content
 
-| 平台 | 链接 |
+| Platform | Link |
 |------|------|
-| 博客 | [sflood.com](https://sflood.com) |
+| Blog | [sflood.com](https://sflood.com) |
 | GitHub | [@stillflood](https://github.com/stillflood) |
 
 <br><br>
